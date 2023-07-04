@@ -1,0 +1,65 @@
+{
+    "title": "Back to Nature",
+    "description": "we launched Naked in 2021, a sustainable retail brand that promotes health and environment. \n\nIn South London we have began work, with the help of our friends at Allpress Espresso and Minor Figures we opened a small window onto the high street where we serve coffee, drinks and healthy plant-based treats. In a matter of months it has quickly become the hot spot for locals, commuters & workers from home - bringing back community after the pandemic. \n\nour model is minimal but effective and is now automated allowing us to grow more and focus on our goal of becoming 100% circular and a transparent b-corp. \n\nwhy choose naked? \n\n1. we are a zero waste brand, 85% of waste is recycled, the rest is turned into bio energy. we are known for our initiatives to incentivise our customers to not waste but save. \n2. we work exclusively with local small businesses, our trade supports over 20 other independent brands that all share the same ethics as us. \n3. we are here for the people, the locals are what brings our spots to life, and we love giving back through workshops, discounts and loyalty cards. \n4. the future of living is healthy eating, that's why we go the extra mile to track down the freshest high quality products from local producers. it's our choice to be 100% plant-based and not promote the meat industry and everything we sell is verified by our traceability team.",
+    "footer": "zero waste - plant-based - local business - circular economy - nutritional health - b-corp",
+    "venues": [
+        {
+            "name": "Greenwich",
+            "address": {
+                "street1": "The Junk Shop",
+                "street2": "9b Greenwich South Street",
+                "city": "London",
+                "zip": "SE10 8NW"
+            },
+            "phone": "07795464686",
+            "email": "info@nakedgr.co.uk",
+            "longitude": -0.0119291,
+            "latitude": 51.4776563,
+            "openTimes": [
+              {
+                  "day": "Monday - Friday",
+                  "hours": "07:00 - 15:00"
+              },
+              {
+                  "day": "Saturday",
+                  "hours": "08:00 - 16:00"
+              },
+              {
+                  "day": "Sunday",
+                  "hours": "09:00 - 15:00"
+              },
+            ]
+        },
+        {
+            "name": "Deptford",
+            "address": {
+                "street1": "Deptford Market Yard",
+                "street2": null,
+                "city": "London",
+                "zip": "SE8 4BX"
+            },
+            "phone": null,
+            "email": "info@nakedgr.co.uk",
+            "longitude": -0.0271,
+            "latitude": 51.4786,
+            "openTimes": [
+              {
+                  "day": "Monday",
+                  "hours": "Closed"
+              },
+              {
+                  "day": "Tuesday - Friday",
+                  "hours": "07:00 - 16:00"
+              },
+              {
+                  "day": "Saturday",
+                  "hours": "08:30 - 16:00"
+              },
+              {
+                  "day": "Sunday",
+                  "hours": "09:00 - 16:00"
+              },
+            ]
+        }
+    ]
+}
