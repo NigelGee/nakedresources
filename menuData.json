@@ -1,0 +1,436 @@
+[
+    {
+      "name": "Greenwich",
+      "menu": [
+          {
+              "type": "Hot Drinks",
+              "isAvailable": true,
+              "item": [
+                  {
+                      "id": 1,
+                      "name": "Black Coffee",
+                      "amount": 3,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 2,
+                      "name": "Flat White",
+                      "amount": 3.4,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 3,
+                      "name": "Magic",
+                      "amount": 3.4,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 4,
+                      "name": "Latte",
+                      "amount": 3.60,
+                      "image": "latte",
+                      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla bibendum quam faucibus, facilisis leo eget, rhoncus leo. Curabitur condimentum nulla vel massa vulputate fringilla. Nam vel nibh dolor. Aliquam quis magna ut est posuere eleifend. Cras dignissim, ipsum ac tristique rutrum, eros massa ultricies sem, vel ultricies diam eros a leo. Phasellus vulputate mauris sem. Phasellus nulla orci, egestas nec fringilla non, efficitur ultrices odio. Nam convallis leo nec accumsan varius. Nulla pellentesque gravida vehicula. Integer vel ex sit amet lorem eleifend consequat non non diam. Aliquam leo nibh, tristique vitae mollis nec, efficitur sed augue. Praesent pulvinar porta metus a hendrerit. Curabitur in semper libero, et maximus neque. Proin dapibus dapibus ultricies. Sed sed purus dignissim, ultricies augue id, luctus purus.",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 5,
+                      "name": "Cappuccino",
+                      "amount": 3.6,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 6,
+                      "name": "Mocha",
+                      "amount": 3.8,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 7,
+                      "name": "Dirty Chai",
+                      "amount": 3.8,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 8,
+                      "name": "Tea",
+                      "amount": 3,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 9,
+                      "name": "Matcha",
+                      "amount": 4,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 10,
+                      "name": "Hot Choc",
+                      "amount": 3.8,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 11,
+                      "name": "Chai Latte",
+                      "amount": 3.8,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 12,
+                      "name": "Mocha",
+                      "amount": 3.8,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  }
+              ]
+          },
+          {
+              "type": "Extra",
+              "isAvailable": true,
+              "item": [
+                  {
+                      "id": 1,
+                      "name": "Oat Soy Coco",
+                      "amount": 0,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 2,
+                      "name": "Large",
+                      "amount": 0.4,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 3,
+                      "name": "Extra Shot",
+                      "amount": 0.4,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  }
+              ]
+          },
+          {
+              "type": "Pastries",
+              "isAvailable": true,
+              "item": [
+                  {
+                      "id": 1,
+                      "name": "Plain Croissant",
+                      "amount": 4,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 2,
+                      "name": "Almond Croissant",
+                      "amount": 4,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 3,
+                      "name": "Pain au Chocolat",
+                      "amount": 3.5,
+                      "image": "painAuChocolat",
+                      "description": "Viennoiserie pastry consisting of a cuboid-shaped piece of yeast-leavened laminated dough, similar in texture to a puff pastry, with one or two pieces of dark chocolate in the center. The chocolate usually has a slight bite to the texture.",
+                      "isAvailable": true
+                  }
+              ]
+          }
+      ]
+    },
+    {
+      "name": "Deptford",
+      "menu": [
+          {
+              "type": "Summer Drinks",
+              "isAvailable": true,
+              "item": [
+                  {
+                      "id": 1,
+                      "name": "Kombucha",
+                      "amount": 3.8,
+                      "image": null,
+                      "description": "alderflower, hibiscus, lemon, ginger",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 2,
+                      "name": "Kola",
+                      "amount": 3.2,
+                      "image": null,
+                      "description": "cola, lemon, ice",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 3,
+                      "name": "Infusions",
+                      "amount": 3,
+                      "image": null,
+                      "description": "breakfast, green, hibiscus, lemongrass",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 4,
+                      "name": "Fresh Juice",
+                      "amount": 4,
+                      "image": null,
+                      "description": "orange, apple, carrot, ginger",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 5,
+                      "name": "Sunset",
+                      "amount": 4.6,
+                      "image": null,
+                      "description": "grapefruit, orange, carrot, agave, strawberry",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 6,
+                      "name": "Kiwi",
+                      "amount": 4.6,
+                      "image": null,
+                      "description": "kiwi, apple, cucumber, lime, mint, spirulina, agave",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 7,
+                      "name": "Banana",
+                      "amount": 4.6,
+                      "image": null,
+                      "description": "banana, ginger, apple, orange, spirulina",
+                      "isAvailable": true
+                  }
+              ]
+          },
+          {
+              "type": "Summer Eat",
+              "isAvailable": true,
+              "item": [
+                  {
+                      "id": 1,
+                      "name": "Acai Bowl",
+                      "amount": 8,
+                      "image": null,
+                      "description": "acai, wild berries, granola, banana",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 2,
+                      "name": "Overnight Oats",
+                      "amount": 6,
+                      "image": null,
+                      "description": "oats, oat milk, chia seeds, blueberry, coconut yogurt, agave, mixed seeds",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 3,
+                      "name": "Green Bowl",
+                      "amount": 9,
+                      "image": null,
+                      "description": "broccoli, onion, cucumber, avocado, spinach, edamame, red chilli, poke",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 4,
+                      "name": "Focaccia",
+                      "amount": 8,
+                      "image": null,
+                      "description": "italian seasoned tomato, red onion, wild rocket \n\nmushrooms, caramelised, onion, tender stem broccoli \n\nchimichurri, red peppers, radish, cucumber, bean pate",
+                      "isAvailable": true
+                  }
+              ]
+          },
+          {
+              "type": "Hot Drinks",
+              "isAvailable": true,
+              "item": [
+                  {
+                      "id": 1,
+                      "name": "Black Coffee",
+                      "amount": 3,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 2,
+                      "name": "Flat White",
+                      "amount": 3.4,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 3,
+                      "name": "Magic",
+                      "amount": 3.4,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 4,
+                      "name": "Latte",
+                      "amount": 3.60,
+                      "image": "latteCup",
+                      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla bibendum quam faucibus, facilisis leo eget, rhoncus leo. Curabitur condimentum nulla vel massa vulputate fringilla. Nam vel nibh dolor. Aliquam quis magna ut est posuere eleifend. Cras dignissim, ipsum ac tristique rutrum, eros massa ultricies sem, vel ultricies diam eros a leo. Phasellus vulputate mauris sem. Phasellus nulla orci, egestas nec fringilla non, efficitur ultrices odio. Nam convallis leo nec accumsan varius. Nulla pellentesque gravida vehicula. Integer vel ex sit amet lorem eleifend consequat non non diam. Aliquam leo nibh, tristique vitae mollis nec, efficitur sed augue. Praesent pulvinar porta metus a hendrerit. Curabitur in semper libero, et maximus neque. Proin dapibus dapibus ultricies. Sed sed purus dignissim, ultricies augue id, luctus purus.",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 5,
+                      "name": "Cappuccino",
+                      "amount": 3.6,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 6,
+                      "name": "Mocha",
+                      "amount": 3.8,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 7,
+                      "name": "Dirty Chai",
+                      "amount": 3.8,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 8,
+                      "name": "Tea",
+                      "amount": 3,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 9,
+                      "name": "Matcha",
+                      "amount": 4,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 10,
+                      "name": "Hot Choc",
+                      "amount": 3.8,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 11,
+                      "name": "Chai Latte",
+                      "amount": 3.8,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 12,
+                      "name": "Mocha",
+                      "amount": 3.8,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  }
+              ]
+          },
+          {
+              "type": "Extra",
+              "isAvailable": true,
+              "item": [
+                  {
+                      "id": 1,
+                      "name": "Oat Soy Coco",
+                      "amount": 0,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 2,
+                      "name": "Large",
+                      "amount": 0.4,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 3,
+                      "name": "Extra Shot",
+                      "amount": 0.4,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  }
+              ]
+          },
+          {
+              "type": "Pastries",
+              "isAvailable": true,
+              "item": [
+                  {
+                      "id": 1,
+                      "name": "Plain Croissant",
+                      "amount": 4,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 2,
+                      "name": "Almond Croissant",
+                      "amount": 4,
+                      "image": null,
+                      "description": "",
+                      "isAvailable": true
+                  },
+                  {
+                      "id": 3,
+                      "name": "Pain au Chocolat",
+                      "amount": 3.5,
+                      "image": "painAuChocolat",
+                      "description": "Viennoiserie pastry consisting of a cuboid-shaped piece of yeast-leavened laminated dough, similar in texture to a puff pastry, with one or two pieces of dark chocolate in the center. The chocolate usually has a slight bite to the texture.",
+                      "isAvailable": true
+                  }
+              ]
+          }
+      ]
+    }
+]
