@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "monstera",
+        "amount": 16,
+        "image": "https://static.wixstatic.com/media/c93f34_cb5ba87df90e4a199bdec1558c55f0af~mv2.jpg/v1/fill/w_818,h_818,al_c,q_85,enc_auto/c93f34_cb5ba87df90e4a199bdec1558c55f0af~mv2.jpg",
+        "url": "https://www.nakedgr.co.uk/product-page/monstera"
+    },
+    {
+        "id": 2,
+        "name": "naked totes",
+        "amount": 10,
+        "image": "https://static.wixstatic.com/media/c93f34_5c31f38b948240a0a0138d3f598e2b00~mv2.png/v1/fill/w_864,h_864,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/c93f34_5c31f38b948240a0a0138d3f598e2b00~mv2.png",
+        "url": "https://www.nakedgr.co.uk/product-page/naked-totes"
+    },
+    {
+        "id": 3,
+        "name": "soy blend candle",
+        "amount": 14,
+        "image": "https://static.wixstatic.com/media/c93f34_1839442ea89f45698986b71c8e1aaf9e~mv2.png/v1/fill/w_864,h_864,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/c93f34_1839442ea89f45698986b71c8e1aaf9e~mv2.png",
+        "url": "https://www.nakedgr.co.uk/product-page/fig-leaf-melon-candle"
+    },
+    {
+        "id": 4,
+        "name": "allpress coffee pods",
+        "amount": 8,
+        "image": "https://static.wixstatic.com/media/c93f34_168c0e269a5f4f16b8fd6adbb7ee2ef3~mv2.png/v1/fill/w_864,h_864,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/c93f34_168c0e269a5f4f16b8fd6adbb7ee2ef3~mv2.png",
+        "url": "https://www.nakedgr.co.uk/product-page/a-r-t-blend-nespresso-pods"
+    },
+    {
+        "id": 5,
+        "name": "allpress blends",
+        "amount": 11,
+        "image": "https://static.wixstatic.com/media/c93f34_8ae1ed9121214ffb9d59c3dba11b7a57~mv2.png/v1/fill/w_864,h_864,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/c93f34_8ae1ed9121214ffb9d59c3dba11b7a57~mv2.png",
+        "url": "https://www.nakedgr.co.uk/product-page/allpress-espresso-blend"
+    },
+    {
+        "id": 6,
+        "name": "minor figures",
+        "amount": 2,
+        "image": "https://static.wixstatic.com/media/c93f34_9a8d196cad3b4d48929da6cf74e6f9db~mv2.png/v1/fill/w_864,h_864,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/c93f34_9a8d196cad3b4d48929da6cf74e6f9db~mv2.png",
+        "url": "https://www.nakedgr.co.uk/product-page/minor-figures-oat-milk-1l"
+    },
+    {
+        "id": 7,
+        "name": "flat white keep cup",
+        "amount": 14,
+        "image": "https://static.wixstatic.com/media/c93f34_912bc753bf464868a5fa36538a642da2~mv2.png/v1/fill/w_864,h_864,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/c93f34_912bc753bf464868a5fa36538a642da2~mv2.png",
+        "url": "https://www.nakedgr.co.uk/product-page/huskee-cup-8oz"
+    },
+    {
+        "id": 8,
+        "name": "the estate dairy milk",
+        "amount": 3,
+        "image": "https://static.wixstatic.com/media/c93f34_323a9c40b63f4856be8be83d7ccba9d6~mv2.png/v1/fill/w_864,h_864,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/c93f34_323a9c40b63f4856be8be83d7ccba9d6~mv2.png",
+        "url": "https://www.nakedgr.co.uk/product-page/dairy-whole-milk-2l"
+    },
+]
