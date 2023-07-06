@@ -34,7 +34,7 @@
                       "id": 4,
                       "name": "Latte",
                       "amount": 3.60,
-                      "image": "latte",
+                      "image": "https://images.squarespace-cdn.com/content/v1/5ce812712aba9d0001cf91de/2b1db1e4-1cbf-4f17-abdd-5cb512a309bc/latteCup.jpeg?format=2500w",
                       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla bibendum quam faucibus, facilisis leo eget, rhoncus leo. Curabitur condimentum nulla vel massa vulputate fringilla. Nam vel nibh dolor. Aliquam quis magna ut est posuere eleifend. Cras dignissim, ipsum ac tristique rutrum, eros massa ultricies sem, vel ultricies diam eros a leo. Phasellus vulputate mauris sem. Phasellus nulla orci, egestas nec fringilla non, efficitur ultrices odio. Nam convallis leo nec accumsan varius. Nulla pellentesque gravida vehicula. Integer vel ex sit amet lorem eleifend consequat non non diam. Aliquam leo nibh, tristique vitae mollis nec, efficitur sed augue. Praesent pulvinar porta metus a hendrerit. Curabitur in semper libero, et maximus neque. Proin dapibus dapibus ultricies. Sed sed purus dignissim, ultricies augue id, luctus purus.",
                       "isAvailable": true
                   },
@@ -158,7 +158,7 @@
                       "id": 3,
                       "name": "Pain au Chocolat",
                       "amount": 3.5,
-                      "image": "painAuChocolat",
+                      "image": null,
                       "description": "Viennoiserie pastry consisting of a cuboid-shaped piece of yeast-leavened laminated dough, similar in texture to a puff pastry, with one or two pieces of dark chocolate in the center. The chocolate usually has a slight bite to the texture.",
                       "isAvailable": true
                   }
@@ -301,7 +301,7 @@
                       "id": 4,
                       "name": "Latte",
                       "amount": 3.60,
-                      "image": "latteCup",
+                      "image": "https://images.squarespace-cdn.com/content/v1/5ce812712aba9d0001cf91de/2b1db1e4-1cbf-4f17-abdd-5cb512a309bc/latteCup.jpeg?format=2500wp",
                       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla bibendum quam faucibus, facilisis leo eget, rhoncus leo. Curabitur condimentum nulla vel massa vulputate fringilla. Nam vel nibh dolor. Aliquam quis magna ut est posuere eleifend. Cras dignissim, ipsum ac tristique rutrum, eros massa ultricies sem, vel ultricies diam eros a leo. Phasellus vulputate mauris sem. Phasellus nulla orci, egestas nec fringilla non, efficitur ultrices odio. Nam convallis leo nec accumsan varius. Nulla pellentesque gravida vehicula. Integer vel ex sit amet lorem eleifend consequat non non diam. Aliquam leo nibh, tristique vitae mollis nec, efficitur sed augue. Praesent pulvinar porta metus a hendrerit. Curabitur in semper libero, et maximus neque. Proin dapibus dapibus ultricies. Sed sed purus dignissim, ultricies augue id, luctus purus.",
                       "isAvailable": true
                   },
